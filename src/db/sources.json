@@ -1,0 +1,13 @@
+{
+    "sources": [
+      {
+        "url": "https://eventos.visitalgarve.pt/pt/agenda?page=1&category=1341",
+        "tags": "musica"
+        
+      },
+      {
+        "url": "https://eventos.visitalgarve.pt/pt/agenda?page=1&category=1342",
+        "tags": "desporto"
+      }
+    ]
+  }
